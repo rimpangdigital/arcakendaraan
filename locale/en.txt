@@ -1,0 +1,36 @@
+#: locale=en
+
+## Media
+
+### Title
+model_452FA2B2_493D_FF9C_41B9_E6116A465FEB.label = Arca Kendaraan
+
+## Popup
+
+### Body
+htmlText_56C0E418_4945_1A8D_41A4_423EC5D5646E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Arca Kendaraan</B></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Loorem ipsum dolor sit amet dulu jua buah berkelana. oorem ipsum dolor sit amet dulu jua buah berkelana. oorem ipsum dolor sit amet dulu jua buah berkelana. oorem ipsum dolor sit amet dulu jua buah berkelana. oorem ipsum dolor sit amet dulu jua buah berkelana. oorem ipsum dolor sit amet dulu jua buah berkelana. oorem ipsum dolor sit amet dulu jua buah berkelana. oorem ipsum dolor sit amet dulu jua buah berkelana. </SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_5E8D6CB4_494D_0B84_4170_9CA40A050206.label = DEKAT
+Button_5E8D6CB4_494D_0B84_4170_9CA40A050206_mobile.label = DEKAT
+Button_51461DEC_494F_0585_41BA_3A010AD3DE58.label = DETAIL 1
+Button_51461DEC_494F_0585_41BA_3A010AD3DE58_mobile.label = DETAIL 1
+Button_5ED78320_494F_FEBD_41C7_DF8E3BE0EE62.label = DETAIL 2
+Button_5ED78320_494F_FEBD_41C7_DF8E3BE0EE62_mobile.label = DETAIL 2
+Button_5EE3C6E2_494F_07BC_41A8_956A8442AEA1.label = SAMPING
+Button_5EE3C6E2_494F_07BC_41A8_956A8442AEA1_mobile.label = SAMPING
+Button_5DCA9D64_4943_0A85_41A0_96230A06AB70.label = VIEW AWAL
+Button_5DCA9D64_4943_0A85_41A0_96230A06AB70_mobile.label = VIEW AWAL
+
+### Image
+Image_5DCAAD63_4943_0A83_41B3_C4DD23735615.url = skin/Image_5DCAAD63_4943_0A83_41B3_C4DD23735615_en.png
+Image_5DCAAD63_4943_0A83_41B3_C4DD23735615_mobile.url = skin/Image_5DCAAD63_4943_0A83_41B3_C4DD23735615_mobile_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 10

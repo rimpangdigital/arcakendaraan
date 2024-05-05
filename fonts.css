@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Myanmar Text";
+   src: url("fonts/Myanmar Text.woff") format("woff"), url("fonts/Myanmar Text.eot") format("embedded-opentype"), url("fonts/Myanmar Text.ttf") format("truetype"), url("fonts/Myanmar Text.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Myanmar Text";
+   src: url("fonts/Myanmar Text Bold.woff") format("woff"), url("fonts/Myanmar Text Bold.eot") format("embedded-opentype"), url("fonts/Myanmar Text Bold.ttf") format("truetype"), url("fonts/Myanmar Text Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Arial Black";
+   src: url("fonts/Arial Black.woff") format("woff"), url("fonts/Arial Black.eot") format("embedded-opentype"), url("fonts/Arial Black.ttf") format("truetype"), url("fonts/Arial Black.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
