@@ -33,4 +33,4 @@ Image_5DCAAD63_4943_0A83_41B3_C4DD23735615_mobile.url = skin/Image_5DCAAD63_4943
 ### Description
 
 ### Title
-tour.name = Untitled 10
+tour.name = arca kendaraan
